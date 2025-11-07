@@ -28,21 +28,13 @@ This system simulates communication with smart delivery boxes. Actual IoT/device
 ## 🧠 Technologies
 
 - Java 21
-
 - Spring Boot 3.5.8
-
 - Spring Web
-
 - Spring Data JPA
-
 - Spring Validation
-- 
 - Spring Doc
-
 - H2 Database
-
 - Maven
-
 - Lombok
 
 ## 🚀 Running the Application
@@ -82,9 +74,7 @@ JDBC_URL: jdbc:h2:mem:leapfrog_dispatcher
 ## 📦 To-Do / Enhancements
 
 - Authentication & Roles
-
 - Battery drain simulation during delivery
-
 - Audit logging (delivery logs)
 - MORE TESTS
 
