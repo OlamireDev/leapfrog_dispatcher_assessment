@@ -1,0 +1,22 @@
+[
+  {"name": "Alpha-Gear_01", "weight": 120.5, "code": "ALPHA_GEAR_01"},
+  {"name": "Nova_Widget-02", "weight": 80.0, "code": "NOVA_WIDGET_02"},
+  {"name": "CyberTool_03", "weight": 200.25, "code": "CYBERTOOL_03"},
+  {"name": "Quantum-Drill_04", "weight": 50.75, "code": "QUANTUM_DRILL_04"},
+  {"name": "SolarPanel_05", "weight": 300.0, "code": "SOLARPANEL_05"},
+  {"name": "HyperWrench-06", "weight": 450.0, "code": "HYPER_WRENCH_06"},
+  {"name": "EcoBottle_07", "weight": 150.5, "code": "ECOBOTTLE_07"},
+  {"name": "NanoScanner-08", "weight": 400.0, "code": "NANOSCANNER_08"},
+  {"name": "SmartLock_09", "weight": 60.75, "code": "SMARTLOCK_09"},
+  {"name": "FusionLamp-10", "weight": 90.0, "code": "FUSION_LAMP_10"},
+  {"name": "TurboFan_11", "weight": 250.25, "code": "TURBOFAN_11"},
+  {"name": "AeroDrone-12", "weight": 30.0, "code": "AERODRONE_12"},
+  {"name": "VoltMeter_13", "weight": 480.5, "code": "VOLTMETER_13"},
+  {"name": "PulseCutter-14", "weight": 220.0, "code": "PULSECUTTER_14"},
+  {"name": "LightBlade_15", "weight": 100.75, "code": "LIGHTBLADE_15"},
+  {"name": "PowerGrip-16", "weight": 75.5, "code": "POWERGRIP_16"},
+  {"name": "EcoHeater_17", "weight": 350.0, "code": "ECOHEATER_17"},
+  {"name": "StormCharger-18", "weight": 60.0, "code": "STORMCHARGER_18"},
+  {"name": "SkyTracker_19", "weight": 410.25, "code": "SKYTRACKER_19"},
+  {"name": "TitanHammer-20", "weight": 500.0, "code": "TITANHAMMER_20"}
+]

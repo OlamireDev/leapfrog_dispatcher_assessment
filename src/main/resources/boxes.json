@@ -1,0 +1,61 @@
+[{
+  "txRef": "xQ7mP2aL9dT0wF3rN8bK",
+  "weight": 445.96,
+  "batteryLevel": 55,
+  "state": "IDLE"
+}, {
+  "txRef": "Zp3Hn6QkL2sW8yT0uR4v",
+  "weight": 368.6,
+  "batteryLevel": 15,
+  "state": "IDLE"
+}, {
+  "txRef": "mN8fS1aQ7jP4dR9lW2xV",
+  "weight": 312.17,
+  "batteryLevel": 59,
+  "state": "RETURNING"
+}, {
+  "txRef": "T9kY2pV6bM3wH8qS4rJf",
+  "weight": 304.84,
+  "batteryLevel": 6,
+  "state": "RETURNING"
+}, {
+  "txRef": "gB4xW7eR2cT9uK1nP5yQ",
+  "weight": 267.14,
+  "batteryLevel": 26,
+  "state": "RETURNING"
+}, {
+  "txRef": "L6vD0nC3yQ8mH5pR1tZs",
+  "weight": 291.59,
+  "batteryLevel": 96,
+  "state": "LOADING"
+}, {
+  "txRef": "qR1tW5vP9fM2bS8yK4nL",
+  "weight": 188.75,
+  "batteryLevel": 45,
+  "state": "IDLE"
+}, {
+  "txRef": "H2jK8mS0uQ7wT4xR9cVn",
+  "weight": 398.98,
+  "batteryLevel": 33,
+  "state": "LOADED"
+}, {
+  "txRef": "dP9sB3kV6yT1qF8nL2rG",
+  "weight": 327.06,
+  "batteryLevel": 78,
+  "state": "DELIVERED"
+}, {
+  "txRef": "W3cL7rN1tZ9vQ5mS2yHp",
+  "weight": 149.69,
+  "batteryLevel": 62,
+  "state": "IDLE"
+}, {
+  "txRef": "pJ5xT2bD8kL1wR9qF4uM",
+  "weight": 270.54,
+  "batteryLevel": 64,
+  "state": "LOADING"
+}, {
+  "txRef": "A8nM2qK6sY3lP9dR1xVw",
+  "weight": 137.41,
+  "batteryLevel": 60,
+  "state": "LOADING"
+}]
